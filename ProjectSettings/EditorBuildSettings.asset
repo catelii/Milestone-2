@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Mundo Aberto.unity
+    guid: d8f5502c287601d49994ad81652f0894
+  - enabled: 1
+    path: Assets/Masmorra1.unity
+    guid: 6369ee68a02bc8b4b8a700f7b4e26026
+  - enabled: 1
+    path: Assets/Masmorra2.unity
+    guid: e90170359c88ac1468f1df0aabd67240
+  - enabled: 1
+    path: Assets/Masmorra3.unity
+    guid: d3b45f49cb4a8804581386250ed0109c
+  m_configObjects: {}
